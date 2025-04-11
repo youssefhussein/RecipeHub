@@ -1,0 +1,6 @@
+﻿services:
+  recipehub:
+    image: recipehub
+    build:
+      context: .
+      dockerfile: Dockerfile
