@@ -3,5 +3,5 @@ obj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
-/Data/app.sqlite
+Data/app.sqlite
 identifier.sqlite
